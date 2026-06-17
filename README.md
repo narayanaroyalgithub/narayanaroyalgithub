@@ -1,85 +1,55 @@
-Hi there 👋 I’m Narayanaroyal Marisetty
+👋 Hi, I’m Narayanaroyal Marisetty
 
-AI Engineer | Software Engineer | Data Engineer
+AI Engineer • Software Engineer • Data Engineer
 
-I build intelligent applications, scalable data platforms, and production-ready AI systems.
-
-⸻
-
-🚀 About Me
-
-🎓 M.S. in Engineering Science (Data Science), SUNY Buffalo
-
-💼 4+ years of experience across AI, Software Engineering, Data Engineering, and Machine Learning
-
-🤖 Building LLM applications, RAG pipelines, and Agentic AI systems
-
-☁️ Experienced with Azure, AWS, Databricks, Spark, FastAPI, and MLOps
+🚀 Building intelligent applications, scalable data platforms, and production-ready AI systems.
 
 ⸻
 
-🛠 Tech Stack
+💡 About Me
+
+* 🎓 M.S. Engineering Science (Data Science), SUNY Buffalo
+* 💼 4+ years across AI, Software Engineering, Data Engineering, and Machine Learning
+* 🤖 Developing LLM applications, RAG pipelines, and Agentic AI systems
+* ☁️ Experienced with Azure, AWS, Databricks, Spark, FastAPI, Docker, and MLOps
+
+⸻
+
+⚡ Tech Stack
 
 Languages
 
-* Python
-* SQL
-* TypeScript
-* Java
+Python • SQL • TypeScript • Java
 
 AI & Machine Learning
 
-* PyTorch
-* TensorFlow
-* Scikit-Learn
-* XGBoost
-* LangChain
-* OpenAI
-* RAG
-* Prompt Engineering
-* Agentic AI
+PyTorch • TensorFlow • Scikit-Learn • XGBoost • LangChain • OpenAI • RAG • Prompt Engineering • Agentic AI
 
 Data Engineering
 
-* Apache Spark
-* PySpark
-* Databricks
-* Airflow
-* Kafka
-* Snowflake
-* ETL Pipelines
+Apache Spark • PySpark • Databricks • Airflow • Kafka • Snowflake • ETL Pipelines
 
 Cloud & DevOps
 
-* Azure
-* AWS
-* Docker
-* Kubernetes
-* FastAPI
-* CI/CD
-* GitHub Actions
+Azure • AWS • Docker • Kubernetes • FastAPI • CI/CD • GitHub Actions
 
 ⸻
 
-Featured Projects
+🚀 Featured Projects
 
 🏥 Kyron Medical
 
 AI-powered patient portal and voice assistant platform.
 
-Tech Stack
-
-Next.js • TypeScript • FastAPI • OpenAI • PostgreSQL • RAG
+Tech: Next.js • TypeScript • FastAPI • OpenAI • PostgreSQL • RAG
 
 ⸻
 
 📄 Document Classification Service
 
-Automated document classification using machine learning and NLP techniques.
+Automated document classification using machine learning and NLP.
 
-Tech Stack
-
-Python • Scikit-Learn • FastAPI
+Tech: Python • Scikit-Learn • FastAPI
 
 ⸻
 
@@ -87,19 +57,15 @@ Python • Scikit-Learn • FastAPI
 
 Generative AI application for text summarization and document understanding.
 
-Tech Stack
-
-Python • OpenAI • NLP
+Tech: Python • OpenAI • NLP
 
 ⸻
 
 📊 Northwind Analytics
 
-Data analytics and ETL workflows built with Python and SQL.
+ETL workflows and analytics built with Python and SQL.
 
-Tech Stack
-
-Python • SQL • Pandas
+Tech: Python • SQL • Pandas
 
 ⸻
 
@@ -107,9 +73,7 @@ Python • SQL • Pandas
 
 Business intelligence dashboards and ETL pipelines.
 
-Tech Stack
-
-SQL • Tableau
+Tech: SQL • Tableau
 
 ⸻
 
@@ -127,10 +91,10 @@ SQL • Tableau
 
 📧 Email: marisettynarayana3@gmail.com
 
-💼 LinkedIn: [www.linkedin.com/in/narayanaroyal-marisetty](https://www.linkedin.com/in/narayanaroyal/)
+💼 LinkedIn: linkedin.com/in/narayanaroyal-marisetty
 
 🌐 GitHub: github.com/narayanaroyalgithub
 
 ⸻
 
-⭐ Always learning, always building.
+⭐ Always Learning • Always Building • Always Improving
