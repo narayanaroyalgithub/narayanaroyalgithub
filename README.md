@@ -127,7 +127,7 @@ SQL • Tableau
 
 📧 Email: marisettynarayana3@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/narayanaroyal-marisetty
+💼 LinkedIn: [www.linkedin.com/in/narayanaroyal-marisetty](https://www.linkedin.com/in/narayanaroyal/)
 
 🌐 GitHub: github.com/narayanaroyalgithub
 
