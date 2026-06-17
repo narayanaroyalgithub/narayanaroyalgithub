@@ -4,6 +4,7 @@
 
 ### 🚀 Building intelligent applications, scalable data platforms, and production-ready AI systems.
 
+https://[![Voice AI](https://img.shields.io/badge/🚀-Kyron%20Voice%20AI-blue)](https://kyron-medical-omega.vercel.app/) 
 ⸻
 
 # 💡 About Me
