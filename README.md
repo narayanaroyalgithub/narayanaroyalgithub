@@ -91,11 +91,20 @@ Tech: SQL • Tableau
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narayanaroyal%20Marisetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/narayanaroyal-marisetty](https://www.linkedin.com/in/narayanaroyal/))
+<p align="left">
+  <a href="https://www.linkedin.com/in/narayanaroyal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-narayanaroyalgithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narayanaroyalgithub)
+  <a href="https://github.com/narayanaroyalgithub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-marisettynarayana3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisettynarayana3@gmail.com)
+  <a href="mailto:marisettynarayana3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ⸻
 
