@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Narayanaroyal Marisetty
 
-## AI Engineer • Software Engineer • Data Engineer
+## AI Engineer • Software Engineer • Data Engineer • Data Scientist
 
 ### 🚀 Building intelligent applications, scalable data platforms, and production-ready AI systems.
 
