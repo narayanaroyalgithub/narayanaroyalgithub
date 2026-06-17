@@ -1,12 +1,12 @@
-👋 Hi, I’m Narayanaroyal Marisetty
+# 👋 Hi, I’m Narayanaroyal Marisetty
 
-AI Engineer • Software Engineer • Data Engineer
+## AI Engineer • Software Engineer • Data Engineer
 
-🚀 Building intelligent applications, scalable data platforms, and production-ready AI systems.
+### 🚀 Building intelligent applications, scalable data platforms, and production-ready AI systems.
 
 ⸻
 
-💡 About Me
+# 💡 About Me
 
 * 🎓 M.S. Engineering Science (Data Science), SUNY Buffalo
 * 💼 4+ years across AI, Software Engineering, Data Engineering, and Machine Learning
@@ -15,7 +15,7 @@ AI Engineer • Software Engineer • Data Engineer
 
 ⸻
 
-⚡ Tech Stack
+# ⚡ Tech Stack
 
 Languages
 
@@ -35,7 +35,7 @@ Azure • AWS • Docker • Kubernetes • FastAPI • CI/CD • GitHub Actions
 
 ⸻
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 🏥 Kyron Medical
 
@@ -77,7 +77,7 @@ Tech: SQL • Tableau
 
 ⸻
 
-🌱 Currently Exploring
+# 🌱 Currently Exploring
 
 * Agentic AI
 * Multi-Agent Systems
@@ -87,7 +87,7 @@ Tech: SQL • Tableau
 
 ⸻
 
-📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: marisettynarayana3@gmail.com
 
