@@ -91,7 +91,7 @@ Tech: SQL • Tableau
 
 # 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisettynarayana3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-marisettynarayana3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisettynarayana3@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narayanaroyal%20Marisetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narayanaroyal/)
 
