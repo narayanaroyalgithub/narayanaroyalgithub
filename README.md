@@ -91,11 +91,11 @@ Tech: SQL • Tableau
 
 # 📫 Connect With Me
 
-📧 Email: marisettynarayana3@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narayanaroyal%20Marisetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/narayanaroyal-marisetty](https://www.linkedin.com/in/narayanaroyal/))
 
-💼 LinkedIn: linkedin.com/in/narayanaroyal-marisetty
+[![GitHub](https://img.shields.io/badge/GitHub-narayanaroyalgithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narayanaroyalgithub)
 
-🌐 GitHub: github.com/narayanaroyalgithub
+[![Email](https://img.shields.io/badge/Email-marisettynarayana3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisettynarayana3@gmail.com)
 
 ⸻
 
