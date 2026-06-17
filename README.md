@@ -6,6 +6,8 @@
 
 [![Voice AI](https://img.shields.io/badge/🚀-Kyron%20Voice%20AI-blue)](https://kyron-medical-omega.vercel.app/) 
 
+[![Springer Publication](https://img.shields.io/badge/📚-Springer%20Publication-orange)](https://link.springer.com/chapter/10.1007/978-981-19-9304-6_54)
+
 # 💡 About Me
 
 * 🎓 M.S. Engineering Science (Data Science), SUNY Buffalo
