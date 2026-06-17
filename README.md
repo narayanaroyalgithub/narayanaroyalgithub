@@ -19,19 +19,19 @@
 
 # ⚡ Tech Stack
 
-Languages
+## Languages
 
 Python • SQL • TypeScript • Java
 
-AI & Machine Learning
+## AI & Machine Learning
 
 PyTorch • TensorFlow • Scikit-Learn • XGBoost • LangChain • OpenAI • RAG • Prompt Engineering • Agentic AI
 
-Data Engineering
+## Data Engineering
 
 Apache Spark • PySpark • Databricks • Airflow • Kafka • Snowflake • ETL Pipelines
 
-Cloud & DevOps
+## Cloud & DevOps
 
 Azure • AWS • Docker • Kubernetes • FastAPI • CI/CD • GitHub Actions
 
@@ -39,7 +39,7 @@ Azure • AWS • Docker • Kubernetes • FastAPI • CI/CD • GitHub Actions
 
 # 🚀 Featured Projects
 
-🏥 Kyron Medical
+## 🏥 Kyron Medical
 
 AI-powered patient portal and voice assistant platform.
 
@@ -47,7 +47,7 @@ Tech: Next.js • TypeScript • FastAPI • OpenAI • PostgreSQL • RAG
 
 ⸻
 
-📄 Document Classification Service
+## 📄 Document Classification Service
 
 Automated document classification using machine learning and NLP.
 
@@ -55,7 +55,7 @@ Tech: Python • Scikit-Learn • FastAPI
 
 ⸻
 
-🤖 Gen AI Text Summarizer
+## 🤖 Gen AI Text Summarizer
 
 Generative AI application for text summarization and document understanding.
 
@@ -63,7 +63,7 @@ Tech: Python • OpenAI • NLP
 
 ⸻
 
-📊 Northwind Analytics
+## 📊 Northwind Analytics
 
 ETL workflows and analytics built with Python and SQL.
 
@@ -71,7 +71,7 @@ Tech: Python • SQL • Pandas
 
 ⸻
 
-📈 Dynamic Sales Insights
+## 📈 Dynamic Sales Insights
 
 Business intelligence dashboards and ETL pipelines.
 
